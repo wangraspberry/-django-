@@ -1,2 +1,3 @@
 # -django-
-观看bilibili再敲一行代码up主视频练习代码
+观看 bilibili  up主：再敲一行代码django视频的练习代码
+是一个本地的网页，很简陋
